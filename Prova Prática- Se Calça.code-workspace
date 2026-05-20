@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"name": "Prova Prática- Se Calça",
+			"path": "."
+		},
+		{
+			"name": "Atividade Avaliativa",
+			"path": "../AWS/Atividade Avaliativa"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Atividade Avaliativa",
+		"liveServer.settings.port": 5501
+	}
+}
